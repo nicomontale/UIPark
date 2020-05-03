@@ -1,5 +1,5 @@
 # UIPark
 
-#UI design of a react native app
+UI design of a react native app
 
-#-Styled-components
+-Styled-components
